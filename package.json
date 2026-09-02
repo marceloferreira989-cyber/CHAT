@@ -1,0 +1,16 @@
+{
+  "name": "cantina-online",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Cantina - chat e chamadas WebRTC com salas por código",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
